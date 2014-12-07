@@ -28,7 +28,7 @@
         "url": "https://github.com/feeleep75/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "feeleep75/node-multi-hashing#lyra2re",
+        "multi-hashing": "git://github.com/feeleep75/node-multi-hashing#lyra2re",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
